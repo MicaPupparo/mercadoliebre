@@ -78,17 +78,8 @@ header {
 .cuotas{
     width: 100%;
     text-align: center;
-    font-weight: 400;
-    margin-top: 10px;
     padding: 5px;
 }
-/*
-header .top-header{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 5%;
-}
-*/
 
 .navbar{
     display: none;
@@ -113,7 +104,7 @@ header .top-header{
     padding: 5px 0px;
     text-align: center;
     font-size: 18px;
-    margin: auto; 
+    margin: 10px auto; 
     border-radius: 10%;
 }
 
@@ -365,7 +356,7 @@ footer i {
 }
 
 @media (min-width: 1200px) {
-    .top-header, .navbar{
+    .top-header, .navbar, footer{
         max-width: 1200px;
         margin: auto;
     }
