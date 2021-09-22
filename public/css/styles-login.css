@@ -1,7 +1,8 @@
 form{
     display: block;
-    width: 70%;
-    margin: 20px auto;
+    width: 90%;
+    margin: 100px auto;
+    max-width: 1200px;
 }
 
 .input{
